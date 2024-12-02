@@ -1,0 +1,10 @@
+{
+    "events": [
+        {
+            "accountIds": ["", "", ""],
+            "title": "Lightning Cup",
+            "region": "NAE",
+            "platform": "Windows"
+        }
+    ]
+}

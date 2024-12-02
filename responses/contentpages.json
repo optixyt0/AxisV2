@@ -1,0 +1,29 @@
+{
+    "jcr:isCheckedOut": true,
+    "_title": "fortnite-game",
+    "lastModified": "2024-11-28T19:55:23.253Z",
+    "pages": {
+        "news": {
+            "news": {
+                "messages": [
+                    {
+                        "image": "",
+                        "hidden": false,
+                        "messageType": "normal",
+                        "title": "Axis Backend",
+                        "body": "Enjoy using Axis!",
+                        "spotlight": false
+                    },
+                    {
+                        "image": "",
+                        "hidden": false,
+                        "messageType": "normal",
+                        "title": "GitHub:",
+                        "body": "https://github.com/optixyt0/Axis-Backend/",
+                        "spotlight": false
+                    }
+                ]
+            }
+        }
+    }
+}
